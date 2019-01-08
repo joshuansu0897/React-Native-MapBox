@@ -1,0 +1,1 @@
+export default MAPBOX_TOKEN='token Here'
